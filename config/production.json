@@ -1,0 +1,12 @@
+{
+  "app": {
+  "host": "0.0.0.0",
+  "port": 8040
+  },
+  "env": "production",
+  "cors": {
+    "allowedOrigins" : [
+      "http://dev.dev.com:8080"
+    ]
+  }
+}
