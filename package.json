@@ -27,7 +27,7 @@
     "@types/uuid": "^3.0.0",
     "async": "^2.5.0",
     "babel-runtime": "^6.23.0",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.19.1",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
     "express": "^4.15.3",
