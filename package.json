@@ -30,7 +30,7 @@
     "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
-    "express": "^4.15.3",
+    "express": "^4.19.2",
     "jsonwebtoken": "^8.2.1",
     "mocha": "8.2.1",
     "mysql": "^2.15.0",
